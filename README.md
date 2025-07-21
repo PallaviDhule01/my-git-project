@@ -1,2 +1,2 @@
-# my git practice project(main update)
+# my git practice project(feature update)
 "update feature-branch"
